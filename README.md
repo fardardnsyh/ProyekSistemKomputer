@@ -8,6 +8,13 @@ Farid Ardiansyah1, Haiqal Mochammad.S.U 2, Aldin Fauzan 3, Atha Ezrafi 4, Ryan R
 
                                         SKEMATIK ALAT Proyek Sistem Komputer
 ![psk_1](https://github.com/fardardnsyh/ProyekSistemKomputer/assets/145440594/bb8c83d9-a80e-4c0b-9206-13822da72712)
+
+
                                                            
 
+Technologies used in the project:
+<p align="left"> <a href="https://www.arduino.cc/" target="blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a 
+href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
+License
+Licensed under [@fardardnsyh, Copyright (c) 2023 Farid Ardiansyah](./LICENSE)
