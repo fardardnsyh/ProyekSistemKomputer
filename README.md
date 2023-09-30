@@ -1,6 +1,5 @@
 <h2>Proyek Sistem Komputer</h2>
 ![ProyekSistemKomputer](https://socialify.git.ci/fardardnsyh/ProyekSistemKomputer/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
-
 membuat alat di mata kuliah Proyek Sistem Komputer di universitas gunadarma dengan 4 sks dengan 1 kelompok 4 orang dengan judul **PROTOTIPE SISTEM MONITORING KELEMBABAN TANAH PENYIRAMAN TANAMAN OTOMATIS PADA TANAMAN KEDONGDONG ARDUINO** 
 Farid Ardiansyah1, Haiqal Mochammad.S.U 2, Aldin Fauzan 3, Atha Ezrafi 4, Ryan Rizki Alandi 5.
 
