@@ -1,4 +1,4 @@
-# Proyek Sistem Komputer
+<h2>Proyek Sistem Komputer</h2>
 membuat alat di mata kuliah Proyek Sistem Komputer di universitas gunadarma dengan 4 sks dengan 1 kelompok 4 orang dengan judul **PROTOTIPE SISTEM MONITORING KELEMBABAN TANAH PENYIRAMAN TANAMAN OTOMATIS PADA TANAMAN KEDONGDONG ARDUINO** 
 Farid Ardiansyah1, Haiqal Mochammad.S.U 2, Aldin Fauzan 3, Atha Ezrafi 4, Ryan Rizki Alandi 5.
 
@@ -16,5 +16,5 @@ Technologies used in the project:
 <p align="left"> <a href="https://www.arduino.cc/" target="blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a 
 href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
-<h2>License</h2>
+<h2>(c)License</h2>
 Licensed under [@fardardnsyh, Copyright (c) 2023 Farid Ardiansyah](./LICENSE)
